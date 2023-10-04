@@ -1,0 +1,7 @@
+.pagination button{
+    margin: 5px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background: white;
+    padding: 10px;
+}

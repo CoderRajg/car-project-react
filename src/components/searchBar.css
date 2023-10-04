@@ -1,0 +1,15 @@
+.search-bar input{
+    border: 2px solid white;
+    outline: none;
+    border-radius: 17px;
+    padding: 5px;
+    padding-left: 15px;
+    
+
+}
+
+.search-bar{
+    display: flex;
+    text-align: left;
+    margin-left: 160px;
+}
